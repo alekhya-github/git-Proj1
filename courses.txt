@@ -4,3 +4,6 @@ Css
 JavaScript
 Core Java
 Advanced Java
+
+Jdbc
+Servlets
